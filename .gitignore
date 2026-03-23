@@ -59,9 +59,11 @@ Release/
 # ==========================================
 # 6. 무거운 외부 SDK 및 플러그인 통째로 무시
 # ==========================================
-Assets/Plugins/x86_64/
 External/nvigi_pack_1_5_0_gdc/
 
 nvigi_log.txt
 
 !CppWrapper/*.sln
+
+Assets/Plugins/x86_64/*
+!Assets/Plugins/x86_64/.gitkeep
