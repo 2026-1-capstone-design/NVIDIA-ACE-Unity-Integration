@@ -64,3 +64,5 @@ Assets/Plugins/x86_64/
 External/nvigi_pack_1_5_0_gdc/
 
 nvigi_log.txt
+
+!CppWrapper/*.sln
